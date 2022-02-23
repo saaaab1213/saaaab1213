@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabina</h1>
-<h3 align="center">Software, mostly Front End Engineer</h3>
+<h3 align="center">Software, mostly Front End, Engineer</h3>
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/sabina-hurtado-vaquerizo/">
@@ -11,18 +11,16 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/32237769/155323560-b9e165b8-e2ae-42ce-a309-881dce04c03f.svg" width="600" height="300"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
 I am a Front End and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building mobile applications with React Native.
+- 📱&nbsp; Currently focused on end-to-end **React Native** mobile applications
 
-- :seedling: Exploring new technologies and trying to master React Native.
-
-- :zap: In my free time, I do lot's of sports and read tech articles.
+- :zap: In my free time, I do sports <img src="https://media.giphy.com/media/yy4FMvzk7hLFoFGz3W/giphy.gif" width="25"> and read tech articles.
 
 ---
 
