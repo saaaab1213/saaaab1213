@@ -40,5 +40,3 @@ I am a Front End and Mobile Developer <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-[![GitHub Streak](https://komarev.com/ghpvc/?username=saaaab1213&label=Profile%20views&color=0e75b6&style=flat-square)](https://git.io/streak-stats)
